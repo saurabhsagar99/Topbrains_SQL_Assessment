@@ -22,6 +22,7 @@ insert into Sales_Raw values
 
 
 /* Question 1 */
+
 create table Customers(
 CustomerID int auto_increment primary key,
 CustomerName varchar(100),
