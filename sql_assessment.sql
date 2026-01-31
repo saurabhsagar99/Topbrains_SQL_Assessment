@@ -21,6 +21,7 @@ insert into Sales_Raw values
 (105, '2024-02-10', 'Priya Sharma', '9123456789', 'Bangalore','Laptop,Keyboard', '1,1', '56000,1500', 'Suresh');
 
 
+/* Question 1 */
 create table Customers(
 CustomerID int auto_increment primary key,
 CustomerName varchar(100),
